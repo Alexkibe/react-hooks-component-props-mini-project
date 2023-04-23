@@ -8,12 +8,6 @@ function Header(props) {
   );
 }
 
-function App() {
-  return (
-    <div className="App">
-      <Header blogName="My Blog" />
-    </div>
-  );
-}
 
-export default App;
+
+export default Header;
